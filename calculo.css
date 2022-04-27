@@ -1,0 +1,27 @@
+*{  
+    text-color:black;
+    margin-top: 50px;
+    text-align: center;
+    
+    
+}
+h1{
+   color:white;
+}
+h2{
+    color:white
+}
+body{
+    
+    background: linear-gradient(to right, #141e30, #243b55);
+}
+
+form{
+
+background-color: rgb(247, 247, 247);
+
+}
+.bill{
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
